@@ -1,4 +1,22 @@
-# ByteBankBroker
+
+# Aprendendo a aprimorar as funcionalidades do ByteBankBroker com a Alura
+
+Aplicação de plataforma de HomeBroker do Bytebank, desenvolvida como prática do curso de Angular e RxJS
+
+## Curso de Angular realizado:
+
+Angular e RxJS: programação reativa - Prof. Alvaro Camillo
+
+Proprostas do curso:
+
+* Entenda o conceito de Observables
+* Prepare as informações vindas do backend utilizando os operadores map e pluck
+* Aprenda a debugar o fluxo de um observable utilizando o operador tap
+* Controlar o fluxo das informações utilizando o switchMap e merge
+* Simplifique a utilização dos dados utilizando o pipe async
+* Otimizar as chamadas ao servidor utilizando os operadores filter, debounceTime e distinctUntilChanged
+
+## ByteBankBroker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
